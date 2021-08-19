@@ -1,0 +1,16 @@
+.cabecalho{
+    font-family: 'Nunito', sans-serif;
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--secundaria);
+    color: var(--primaria);
+    padding: 15px;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.cabecalho h1{
+    margin-left: 30px;
+    font-size: 2em;
+    text-shadow: 3px 2px 5px rgba(0, 0, 0, 0.748);
+}
